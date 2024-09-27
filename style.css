@@ -59,3 +59,12 @@ footer p {
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
 }
+.cartao__conteudo__pergunta p {
+    color: var(--text-color);
+    font-weight: 500;
+}
+
+.cartao__conteudo__resposta p {
+    color: var(--card-back-color);
+    font-weight: 700;
+}
