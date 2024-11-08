@@ -6,16 +6,16 @@ criaCartao(
 
 
 criaCartao(
-    'arte',
+    'Arte',
     'qual a obra mais famosa de van gogh?',
-    'A capital da França é Paris'
+    'Noite Estrelada'
 )
 
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Biologia',
+    'qual o novo orgão do corpo humano descorberto em 2020',
+    'mesentério'
 )
 
 
