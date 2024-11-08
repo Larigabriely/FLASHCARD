@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Geografia',
+    'Qual é o país mais pequeno do mundo?',
+    'o Vaticano, com seu 0,44 km² de território'
 )
 
 
@@ -14,7 +14,7 @@ criaCartao(
 
 criaCartao(
     'Biologia',
-    'qual o novo orgão do corpo humano descorberto em 2020',
+    'qual o novo orgão do corpo humano descorberto em 2020?',
     'mesentério'
 )
 
